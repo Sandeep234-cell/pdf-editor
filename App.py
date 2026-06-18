@@ -135,4 +135,3 @@ if uploaded_pdf:
                 "rotated.pdf",
                 "application/pdf"
             )
-```
